@@ -1,2 +1,2 @@
 # portfolio
-petstore project using django
+django
